@@ -45,7 +45,7 @@ spam-email-classifier/
 
 ## Author
 
-[Your Name]
+[Vamshi]
 ```
 
 ---
@@ -74,4 +74,5 @@ ENV/
 
 # OS
 .DS_Store
+
 Thumbs.db
